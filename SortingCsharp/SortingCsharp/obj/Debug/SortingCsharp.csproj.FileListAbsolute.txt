@@ -1,0 +1,7 @@
+c:\users\yasin\source\repos\SortingCsharp\SortingCsharp\bin\Debug\SortingCsharp.exe.config
+c:\users\yasin\source\repos\SortingCsharp\SortingCsharp\bin\Debug\SortingCsharp.exe
+c:\users\yasin\source\repos\SortingCsharp\SortingCsharp\bin\Debug\SortingCsharp.pdb
+c:\users\yasin\source\repos\SortingCsharp\SortingCsharp\obj\Debug\SortingCsharp.csprojResolveAssemblyReference.cache
+c:\users\yasin\source\repos\SortingCsharp\SortingCsharp\obj\Debug\SortingCsharp.csproj.CoreCompileInputs.cache
+c:\users\yasin\source\repos\SortingCsharp\SortingCsharp\obj\Debug\SortingCsharp.exe
+c:\users\yasin\source\repos\SortingCsharp\SortingCsharp\obj\Debug\SortingCsharp.pdb
